@@ -1,1 +1,1 @@
-type nul 
+type nul  1
