@@ -1,4 +1,1 @@
-.
-hello
-privet
-hello, git!
+keep
